@@ -27,3 +27,5 @@ Here are a few example indicators that help you tell if an apprentice has succes
 * They use good TDD technique, commiting to the red/green/refactor cycle.
 * They do not take large leaps in logic.
 * They do not rewrite large sections of code, all at once.
+
+TESTING GIT TESTING
